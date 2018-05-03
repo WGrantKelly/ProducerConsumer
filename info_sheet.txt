@@ -1,0 +1,50 @@
+========================================
+CS/COE 1550 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Grant Kelly
+
+Lecture section: MW @ 3
+
+Recitation day and time:  Tues @ 5
+
+Assignment #:  Project 2
+
+Program due date:  02/25/18
+
+Handed in date:  02/24/18
+
+Source code file name(s):
+
+prodcons.c
+prodcons.h
+Makefile
+sys.c
+syscall_table.S
+unistd.h
+prodcons
+
+Other file name(s) (if relevant):
+
+info_sheet.txt
+README.md
+
+Does your program run without error?: Yes!
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+It should all work correctly
+
+Additional comments to the grader:
+
+The program runs forever, you have to quit QEMU to stoop it.
+
+
+
+
+
